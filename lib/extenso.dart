@@ -1,7 +1,7 @@
 library extenso;
 
-import 'package:extenso_dart/utils/dates/dates.dart';
-import 'package:extenso_dart/utils/numbers/numbers.dart';
+import 'package:extenso_dart/src/utils/dates/dates.dart';
+import 'package:extenso_dart/src/utils/numbers/numbers.dart';
 
 class Extenso {
   /// Returns [number] in long form.

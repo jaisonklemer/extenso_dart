@@ -1,5 +1,5 @@
-import 'package:extenso_dart/lists/datesList.dart';
-import 'package:extenso_dart/utils/numbers/numbers.dart';
+import 'package:extenso_dart/src/lists/datesList.dart';
+import 'package:extenso_dart/src/utils/numbers/numbers.dart';
 
 splitDate(date) {
   var dateMap = date.split('/');

@@ -1,4 +1,4 @@
-import 'package:extenso_dart/lists/numbersList.dart';
+import 'package:extenso_dart/src/lists/numbersList.dart';
 import 'package:intl/intl.dart';
 
 String lt10(num number) {
